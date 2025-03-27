@@ -40,4 +40,4 @@
 <img src="https://img.shields.io/badge/Ubuntu_22-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff" />
 
 <!--깃헙 공적-->
-![Hyogyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=stars&show_icons=true&theme=ambient_gradient)
+![Hyogyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyogyeong&hide=stars&show_icons=true&theme=ambient_gradient)
