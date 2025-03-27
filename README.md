@@ -38,3 +38,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
 <img src="https://img.shields.io/badge/CentOS_6/7-262577?style=for-the-badge&logo=centos&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Ubuntu_22-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff" />
+
+<!--깃헙 공적-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=stars&show_icons=true&theme=ambient_gradient)
