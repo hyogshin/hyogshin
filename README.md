@@ -1,114 +1,137 @@
-<!-- 헤더 부분 - 모던한 블루 그라데이션 -->
+<!-- 헤더 부분 - 색상 팔레트 적용 -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=230&section=header&text=Hello%20World%20I%27m%20Hyogyeong&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=40" />
-</div>
-<!-- 헤더 부분 - 반응형으로 수정 -->
-
-<!-- 타이핑 효과 - 세련된 컬러로 변경 -->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=I+Code+My+Dream+Everyday!;Full-Stack+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" /></a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f3ed,100:0c2b4d&height=230&section=header&text=Hyogyeong%20Shin&desc=Full-Stack%20Developer&descAlignY=65&descAlign=62&fontSize=55&fontColor=f5f3ed&fontAlignY=40&animation=twinkling" />
 </div>
 
-<!-- 소개 섹션 - 가독성 향상을 위한 디자인 -->
+<!-- 타이핑 효과 - 색상 조정 -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> About Me</h2>
-  
-  <p>
-    안녕하세요! 저는 웹 개발에 열정을 가진 풀스택 개발자입니다.<br>
-    새로운 기술을 배우고 도전적인 문제를 해결하는 것을 좋아합니다.<br>
-    함께 성장하고 배울 수 있는 기회를 언제나 환영합니다!
-  </p>
-  
-  <!-- 소셜 링크 섹션 - 모던한 뱃지 -->
-  <p>
-    <a href="mailto:hyogy607@gmail.com"><img src="https://img.shields.io/badge/Email-3A7BD5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/hyogyeong/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://bespoke-alfajores-2d0a03.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  </p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0C2B4D&center=true&vCenter=true&random=false&width=600&height=60&lines=Code+Artisan+%E2%9C%A8;Cloud+Architect+%F0%9F%8C%A9;Problem+Solver+%F0%9F%A7%A9;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" /></a>
 </div>
 
-<br>
-
-<!-- 기술 스택 섹션 - 통일된 컬러 스키마 -->
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" height="35" /> Tech Stack</h2>
-  
-  <!-- Front-end 섹션 -->
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" height="25" /> Front-end</h3>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  </p>
-  
-  <!-- Back-end 섹션 -->
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Back-end</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  </p>
-  
-  <!-- DevOps 섹션 -->
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> DevOps</h3>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  </p>
-  
-  <!-- ETC 섹션 -->
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> ETC</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <table>
+    <tr>
+      <td align="center" width="100%">
+        <h2>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> 
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=0C2B4D&center=true&vCenter=true&random=false&width=200&height=35&lines=About+Me" alt="Typing SVG" />
+        </h2>
+        <img width="85%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0C2B4D&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=console.log(%22Hello%2C+I'm+Hyogyeong!%22);%2F%2F+Full-Stack+Developer+with+passion+for+web;%2F%2F+and+cloud+architecture" alt="Code introduction" />
+        <div>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 새로운 기술 스택을 탐구하고 복잡한 문제를 해결하는 과정에서 큰 기쁨을 느낍니다.
+          <br><br>
+           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />함께 성장하고 혁신적인 솔루션을 만들어 나가는 기회를 언제나 환영합니다!
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+  <!-- 소셜 링크 섹션 - 색상 팔레트 적용 -->
+  <p align="center">
+    <a href="mailto:hyogy607@gmail.com"><img src="https://img.shields.io/badge/hyogy607@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=d6cec3"/></a>
+    <a href="https://www.linkedin.com/in/hyogyeong/"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0c2b4d"/></a>
+    <a href="https://bespoke-alfajores-2d0a03.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=000000"/></a>
   </p>
 </div>
 
 <br>
 
-<!-- 프로젝트 섹션 - 세련된 디자인 -->
-<div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="35" height="35" /> Featured Projects</h2>
+<!-- 기술 스택 섹션 - 색상 팔레트 적용 -->
+<div align="center" style="background-color: #f5f3ed;">
+  <h2 style="color: #0c2b4d;">🛠️ Technologies & Tools</h2>
+  
+  <table style="background-color: #f5f3ed;">
+    <tr>
+      <td align="center" width="96" style="background-color: #f5f3ed;">
+        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="65" height="65" />
+        <br><span style="color: #0c2b4d;">React</span>
+      </td>
+      <td align="center" width="96" style="background-color: #f5f3ed;">
+        <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="65" height="65" />
+        <br><span style="color: #0c2b4d;">JavaScript</span>
+      </td>
+      <td align="center" width="96" style="background-color: #f5f3ed;">
+        <img src="https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" alt="TypeScript" width="65" height="65" />
+        <br><span style="color: #0c2b4d;">TypeScript</span>
+      </td>
+      <td align="center" width="96" style="background-color: #f5f3ed;">
+        <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="65" height="65" />
+        <br><span style="color: #0c2b4d;">AWS</span>
+      </td>
+      <td align="center" width="96" style="background-color: #f5f3ed;">
+        <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width="65" height="65" />
+        <br><span style="color: #0c2b4d;">Docker</span>
+      </td>
+      <td align="center" width="96" style="background-color: #f5f3ed;">
+        <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" width="65" height="65" />
+        <br><span style="color: #0c2b4d;">Kubernetes</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96" style="background-color: #f5f3ed;">
+        <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" width="65" height="65" />
+        <br><span style="color: #0c2b4d;">Nginx</span>
+      </td>
+      <td align="center" width="96" style="background-color: #f5f3ed;">
+        <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" alt="MySQL" width="65" height="65" />
+        <br><span style="color: #0c2b4d;">MySQL</span>
+      </td>
+      <td align="center" width="96" style="background-color: #f5f3ed;">
+        <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="65" height="65" />
+        <br><span style="color: #0c2b4d;">GitHub</span>
+      </td>
+      <td align="center" width="96" style="background-color: #f5f3ed;">
+        <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node.js" width="65" height="65" />
+        <br><span style="color: #0c2b4d;">Node.js</span>
+      </td>
+      <td align="center" width="96" style="background-color: #f5f3ed;">
+        <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" alt="CSS" width="65" height="65" />
+        <br><span style="color: #0c2b4d;">CSS</span>
+      </td>
+      <td align="center" width="96" style="background-color: #f5f3ed;">
+        <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="65" height="65" />
+        <br><span style="color: #0c2b4d;">HTML</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- 프로젝트 섹션 - 색상 팔레트 적용 -->
+<div align="center" style="background-color: #f5f3ed;">
+  <h2 style="color: #0c2b4d;">✨ Featured Projects</h2>
   
   <a href="https://github.com/100-hours-a-week/7-team-kono-fe">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=100-hours-a-week&repo=7-team-kono-fe&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=100-hours-a-week&repo=7-team-kono-fe&theme=default&hide_border=true&border_radius=10&title_color=0c2b4d&icon_color=0c2b4d&bg_color=f5f3ed&text_color=0c2b4d" />
   </a>
   <a href="https://github.com/100-hours-a-week/2-hayden-shin-community-fe">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=100-hours-a-week&repo=2-hayden-shin-community-fe&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=100-hours-a-week&repo=2-hayden-shin-community-fe&theme=default&hide_border=true&border_radius=10&title_color=0c2b4d&icon_color=0c2b4d&bg_color=f5f3ed&text_color=0c2b4d" />
   </a>
 </div>
 
 <br>
 
-<!-- 깃헙 통계 - 일관된 디자인 적용 -->
-<div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" height="35" /> GitHub Stats</h2>
+<!-- 깃헙 통계 - 색상 팔레트 적용 -->
+<div align="center" style="background-color: #f5f3ed;">
+  <h2 style="color: #0c2b4d;">📊 GitHub Analytics</h2>
   
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hyogshin&hide=stars&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=20232a" alt="Hyogyeong's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyogshin&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=20232a" alt="Top Languages" />
-</div>
+  <!-- GitHub 통계와 언어 -->
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyogshin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0c2b4d&icon_color=0c2b4d&text_color=0c2b4d&bg_color=f5f3ed" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyogshin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=0c2b4d&icon_color=0c2b4d&text_color=0c2b4d&bg_color=f5f3ed"/>
+  </p>
+<br>
+
+<!-- 방문자 카운터 - 색상 팔레트 적용 -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hyogshin&color=0c2b4d&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
 
 <br>
 
-<!-- 방문자 카운터 - 미니멀 디자인 -->
+<!-- 풋터 - 색상 팔레트 적용 -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/hyogshin/count.svg?color=3a7bd5" alt="Visitor Count" />
-</div>
-
-<br>
-
-<!-- 풋터 - 매칭 그라데이션 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c2b4d,100:000000&height=120&section=footer" />
 </div>
