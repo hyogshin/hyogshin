@@ -3,24 +3,18 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f3ed,100:0c2b4d&height=230&section=header&text=Hyogyeong%20Shin&desc=Full-Stack%20Developer&descAlignY=65&descAlign=62&fontSize=55&fontColor=f5f3ed&fontAlignY=40&animation=twinkling" />
 </div>
 
-<!-- 타이핑 효과 - 색상 조정 -->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0C2B4D&center=true&vCenter=true&random=false&width=600&height=60&lines=Code+Artisan+%E2%9C%A8;Cloud+Architect+%F0%9F%8C%A9;Problem+Solver+%F0%9F%A7%A9;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" /></a>
-</div>
-
 <div align="center">
   <table>
     <tr>
       <td align="center" width="100%">
         <h2>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> 
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=0C2B4D&center=true&vCenter=true&random=false&width=200&height=35&lines=About+Me" alt="Typing SVG" />
+          About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> 
         </h2>
         <img width="85%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0C2B4D&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=console.log(%22Hello%2C+I'm+Hyogyeong!%22);%2F%2F+Full-Stack+Developer+with+passion+for+web;%2F%2F+and+cloud+architecture" alt="Code introduction" />
         <div>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 새로운 기술 스택을 탐구하고 복잡한 문제를 해결하는 과정에서 큰 기쁨을 느낍니다.
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 새로운 기술 스택을 탐구하고 <br>복잡한 문제를 해결하는 과정에서 큰 기쁨을 느낍니다.
           <br><br>
-           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />함께 성장하고 혁신적인 솔루션을 만들어 나가는 기회를 언제나 환영합니다!
+           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />함께 성장하고 혁신적인 솔루션을<br> 만들어 나가는 기회를 언제나 환영합니다!
         </div>
       </td>
     </tr>
@@ -95,20 +89,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<br>
-
-<!-- 프로젝트 섹션 - 색상 팔레트 적용 -->
-<div align="center" style="background-color: #f5f3ed;">
-  <h2 style="color: #0c2b4d;">✨ Featured Projects</h2>
-  
-  <a href="https://github.com/100-hours-a-week/7-team-kono-fe">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=100-hours-a-week&repo=7-team-kono-fe&theme=default&hide_border=true&border_radius=10&title_color=0c2b4d&icon_color=0c2b4d&bg_color=f5f3ed&text_color=0c2b4d" />
-  </a>
-  <a href="https://github.com/100-hours-a-week/2-hayden-shin-community-fe">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=100-hours-a-week&repo=2-hayden-shin-community-fe&theme=default&hide_border=true&border_radius=10&title_color=0c2b4d&icon_color=0c2b4d&bg_color=f5f3ed&text_color=0c2b4d" />
-  </a>
 </div>
 
 <br>
