@@ -104,6 +104,15 @@
   </p>
 <br>
 
+<!-- Contributor fame -->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyogshin&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hyogshin"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!-- 방문자 카운터 - 색상 팔레트 적용 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hyogshin&color=0c2b4d&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
