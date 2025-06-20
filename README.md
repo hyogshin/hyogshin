@@ -12,9 +12,11 @@
         </h2>
         <img width="85%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0C2B4D&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=console.log(%22Hello%2C+I'm+Hyogyeong!%22);%2F%2F+Full-Stack+Developer+with+passion+for+web;%2F%2F+and+cloud+architecture" alt="Code introduction" />
         <div>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 새로운 기술 스택을 탐구하고 <br>복잡한 문제를 해결하는 과정에서 큰 기쁨을 느낍니다.
-          <br><br>
-           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />함께 성장하고 혁신적인 솔루션을<br> 만들어 나가는 기회를 언제나 환영합니다!
+           Passionate about full-stack development and tackling challenging problems through code. </br>Currently refactoring a cryptocurrency trading simulator </br>and always eager to collaborate on innovative solutions that create meaningful impact.
+          <br></br>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
+           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+          <br></br>
         </div>
       </td>
     </tr>
@@ -46,7 +48,7 @@
         <br><span style="color: #0c2b4d;">JavaScript</span>
       </td>
       <td align="center" width="96" style="background-color: #f5f3ed;">
-        <img src="https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" alt="TypeScript" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65" />
         <br><span style="color: #0c2b4d;">TypeScript</span>
       </td>
       <td align="center" width="96" style="background-color: #f5f3ed;">
@@ -68,7 +70,7 @@
         <br><span style="color: #0c2b4d;">Nginx</span>
       </td>
       <td align="center" width="96" style="background-color: #f5f3ed;">
-        <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" alt="MySQL" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="65" height="65" />
         <br><span style="color: #0c2b4d;">MySQL</span>
       </td>
       <td align="center" width="96" style="background-color: #f5f3ed;">
@@ -80,7 +82,7 @@
         <br><span style="color: #0c2b4d;">Node.js</span>
       </td>
       <td align="center" width="96" style="background-color: #f5f3ed;">
-        <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" alt="CSS" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="65" height="65" />
         <br><span style="color: #0c2b4d;">CSS</span>
       </td>
       <td align="center" width="96" style="background-color: #f5f3ed;">
