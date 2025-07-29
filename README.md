@@ -106,13 +106,20 @@
   </p>
 <br>
 
+<!-- 백준 solved.ac 배지 -->
+<div align="center">
+  <a href="https://solved.ac/hs607">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs607" alt="Solved.ac Profile" />
+  </a>
+</div>
+
 <!-- Contributor fame -->
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyogshin&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/hyogshin"
-  width="600"
-  height="300"
-/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyogshin&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/hyogshin"
+    width="600"
+    height="120"
+  />
 </a>
 
 <!-- 방문자 카운터 - 색상 팔레트 적용 -->
