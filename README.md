@@ -101,7 +101,7 @@
   
   <!-- GitHub 통계와 언어 -->
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyogshin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0c2b4d&icon_color=0c2b4d&text_color=0c2b4d&bg_color=f5f3ed" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyogshin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0c2b4d&icon_color=0c2b4d&text_color=0c2b4d&bg_color=f5f3ed&rank_icon=github" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyogshin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=0c2b4d&icon_color=0c2b4d&text_color=0c2b4d&bg_color=f5f3ed"/>
   </p>
 <br>
