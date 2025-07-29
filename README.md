@@ -97,19 +97,15 @@
 
 <!-- 깃헙 통계 - 색상 팔레트 적용 -->
 <div align="center" style="background-color: #f5f3ed;">
-  <h2 style="color: #0c2b4d;">📊 GitHub Analytics</h2>
+  <h2 style="color: #0c2b4d;">📊 Analytics</h2>
   
-  <!-- GitHub 통계와 언어 -->
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyogshin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0c2b4d&icon_color=0c2b4d&text_color=0c2b4d&bg_color=f5f3ed&rank_icon=github" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyogshin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=0c2b4d&icon_color=0c2b4d&text_color=0c2b4d&bg_color=f5f3ed"/>
-  </p>
-<br>
+  <!-- GitHub 통계 -->
+<div align="center">  
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=hyogshin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&icon_color=0c2b4d&text_color=0c2b4d&bg_color=f5f3ed&rank_icon=github&hide_title=true" />
 
 <!-- 백준 solved.ac 배지 -->
-<div align="center">
   <a href="https://solved.ac/hs607">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs607" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs607" height="160" alt="Solved.ac Profile" />
   </a>
 </div>
 
