@@ -101,11 +101,11 @@
   
   <!-- GitHub 통계 -->
 <div align="center">  
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=hyogshin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&icon_color=0c2b4d&text_color=0c2b4d&bg_color=f5f3ed&rank_icon=github&hide_title=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=hyogshin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&icon_color=0c2b4d&text_color=0c2b4d&bg_color=f5f3ed&rank_icon=github&hide_title=true&hide=stars" />
 
 <!-- 백준 solved.ac 배지 -->
   <a href="https://solved.ac/hs607">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs607" height="160" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs607" height="140" alt="Solved.ac Profile" />
   </a>
 </div>
 
