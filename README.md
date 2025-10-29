@@ -1,6 +1,6 @@
 <!-- 헤더 부분 - 색상 팔레트 적용 -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f3ed,100:0c2b4d&height=230&section=header&text=Hyogyeong%20Shin&desc=Full-Stack%20Developer&descAlignY=65&descAlign=62&fontSize=55&fontColor=f5f3ed&fontAlignY=40&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f3ed,100:0c2b4d&height=230&section=header&text=Hayden%20Shin&desc=Full-Stack%20Developer&descAlignY=65&descAlign=62&fontSize=55&fontColor=f5f3ed&fontAlignY=40&animation=twinkling" />
 </div>
 
 <div align="center">
