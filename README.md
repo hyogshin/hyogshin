@@ -10,7 +10,7 @@
         <h2>
           About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> 
         </h2>
-        <img width="85%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0C2B4D&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=console.log(%22Hello%2C+I'm+Hyogyeong!%22);%2F%2F+Full-Stack+Developer+with+passion+for+web;%2F%2F+and+cloud+architecture" alt="Code introduction" />
+        <img width="85%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0C2B4D&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=console.log(%22Hello%2C+I'm+Hayden!%22);%2F%2F+Full-Stack+Developer+with+passion+for+web;%2F%2F+and+cloud+architecture" alt="Code introduction" />
         <div>
            Passionate about full-stack development and tackling challenging problems through code. </br>Currently refactoring a cryptocurrency trading simulator </br>and always eager to collaborate on innovative solutions that create meaningful impact.
           <br></br>
